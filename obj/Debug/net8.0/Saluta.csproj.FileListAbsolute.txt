@@ -1,0 +1,14 @@
+C:\Users\pince\Documents\csharp\Saluta\bin\Debug\net8.0\Saluta.exe
+C:\Users\pince\Documents\csharp\Saluta\bin\Debug\net8.0\Saluta.deps.json
+C:\Users\pince\Documents\csharp\Saluta\bin\Debug\net8.0\Saluta.runtimeconfig.json
+C:\Users\pince\Documents\csharp\Saluta\bin\Debug\net8.0\Saluta.dll
+C:\Users\pince\Documents\csharp\Saluta\bin\Debug\net8.0\Saluta.pdb
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.AssemblyInfoInputs.cache
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.AssemblyInfo.cs
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.csproj.CoreCompileInputs.cache
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.dll
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\refint\Saluta.dll
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.pdb
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.genruntimeconfig.cache
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\ref\Saluta.dll
