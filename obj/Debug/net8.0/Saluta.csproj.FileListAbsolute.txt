@@ -12,3 +12,4 @@ C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\refint\Saluta.dll
 C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.pdb
 C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.genruntimeconfig.cache
 C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\ref\Saluta.dll
+C:\Users\pince\Documents\csharp\Saluta\obj\Debug\net8.0\Saluta.sourcelink.json
